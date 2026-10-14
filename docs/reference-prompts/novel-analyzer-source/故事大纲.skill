@@ -1,0 +1,7 @@
+# 故事大纲.skill
+
+统一技能：`novel-analyzer`（子技能：故事大纲分析）
+
+调用方式：
+
+`Use novel-analyzer 整理这段小说的故事大纲、时间线、转折和高潮。`

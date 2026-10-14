@@ -1,0 +1,7 @@
+# 核心悬念.skill
+
+统一技能：`novel-analyzer`（子技能：核心悬念分析）
+
+调用方式：
+
+`Use novel-analyzer 分析这段小说的核心悬念、揭示节奏和未解谜题。`

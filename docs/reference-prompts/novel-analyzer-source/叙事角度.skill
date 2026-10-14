@@ -1,0 +1,7 @@
+# 叙事角度.skill
+
+统一技能：`novel-analyzer`（子技能：叙事视角分析）
+
+调用方式：
+
+`Use novel-analyzer 分析这段小说的叙事人称、视角范围和信息差。`

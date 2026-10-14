@@ -1,0 +1,7 @@
+# 节奏控制.skill
+
+统一技能：`novel-analyzer`（子技能：节奏控制分析）
+
+调用方式：
+
+`Use novel-analyzer 分析这段小说的动作、独白、描述、对话和节奏控制。`

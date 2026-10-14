@@ -1,0 +1,54 @@
+# ===== 环境变量与密钥 =====
+.env
+.env.local
+.env.*.local
+
+# ===== Python =====
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ===== 前端 =====
+frontend/node_modules/
+frontend/dist/
+frontend/playwright-report/
+frontend/test-results/
+
+# ===== Playwright CLI 本地状态 =====
+.playwright-cli/
+
+# ===== 运行时数据目录 =====
+data/*
+!data/.gitkeep
+backend/data/
+
+# ===== 数据库 =====
+*.db
+*.db-shm
+*.db-wal
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+
+# ===== 日志 =====
+*.log
+
+# ===== 临时文件 =====
+*.part
+*.tmp
+
+# ===== 操作系统 =====
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# ===== IDE / 编辑器 =====
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,7 @@
+# 冲突.skill
+
+统一技能：`novel-analyzer`（子技能：冲突分析）
+
+调用方式：
+
+`Use novel-analyzer 分析这段小说的核心冲突和章节冲突。`

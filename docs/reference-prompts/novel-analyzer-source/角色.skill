@@ -1,0 +1,7 @@
+# 角色.skill
+
+统一技能：`novel-analyzer`（子技能：角色分析）
+
+调用方式：
+
+`Use novel-analyzer 分析这段小说的角色层级、成长、动机、特征和语言习惯。`

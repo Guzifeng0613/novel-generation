@@ -1,0 +1,7 @@
+# 背景.skill
+
+统一技能：`novel-analyzer`（子技能：背景/世界观分析）
+
+调用方式：
+
+`Use novel-analyzer 分析这段小说的背景、世界观、地点、时代和关键设定。`
